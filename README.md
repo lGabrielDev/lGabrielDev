@@ -4,9 +4,7 @@
 <!-- Mensagem de apresentação - com efeito de digitação -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=47&center=true&vCenter=true&width=1000&lines=Hi+there%2C+I'm+Gabriel!;From+Brazil%2C+SP%2C+São+Paulo;Be+Welcome+:%29&typingSpeed=100)](https://git.io/typing-svg)
 
-
 <br>
-
 
 <!-- Redes sociais -->
 <div class="redesSociais" align="center">
@@ -25,7 +23,6 @@
 <br>
 
 
-
 <!-- Tecnologias que utilizo -->
 <div class="githubStatus" align="center">
     <h2>
@@ -36,37 +33,34 @@
     <div class="icons">
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html_icon" align="center">
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css_icon" align="center">
-        <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="java_icon" align="center">
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=black" alt="java_icon" align="center">
         <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="spring_icon" align="center">
         <img src="https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white" alt="thymeleaf_icon" align="center">
         <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgres_icon" align="center">
         <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="linux_icon" align="center">
         <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git_icon" align="center">
     </div>
-
 </div>
 
 
 <br>
 <br>
-<br>
-
 
 
 <!-- github status -->
 <div class="status" align="center">
-
-<h2>
-    <img src="https://img.icons8.com/office/256/fire-element.png" alt="tool_icon" width="30" align="center">
-    Github status
-    <img src="https://img.icons8.com/office/256/fire-element.png" alt="tool_icon" width="30" align="center">
-</h2>
-<br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lGabrielDev&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lGabrielDev&show_icons=true&theme=tokyonight)
-
-
+    <h2>
+        <img src="https://img.icons8.com/office/256/fire-element.png" alt="tool_icon" width="30" align="center">
+        Github status
+        <img src="https://img.icons8.com/office/256/fire-element.png" alt="tool_icon" width="30" align="center">
+    </h2>
+    <br>
+    <!-- most used languages -->
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img alt="top_languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lGabrielDev&layout=compact&theme=tokyonight" width="418px">
+    <a/>
+    <!-- github status -->
+    <img alt="github_status" src="https://github-readme-stats.vercel.app/api?username=lGabrielDev&show_icons=true&theme=tokyonight">
 </div>
 
 
