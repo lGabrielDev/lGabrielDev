@@ -56,9 +56,9 @@
     </h2>
     <br>
     <!-- most used languages -->
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img alt="top_languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lGabrielDev&layout=compact&theme=tokyonight" width="418px">
-    <a/>
+        <a href="https://github.com/anuraghazra/github-readme-stats">
+            <img alt="top_languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lGabrielDev&layout=compact&theme=tokyonight">
+        <a/>
     <!-- github status -->
     <img alt="github_status" src="https://github-readme-stats.vercel.app/api?username=lGabrielDev&show_icons=true&theme=tokyonight">
 </div>
