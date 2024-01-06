@@ -22,7 +22,6 @@
 <br>
 <br>
 
-
 <!-- Tecnologias que utilizo -->
 <div class="githubStatus" align="center">
     <h2>
@@ -31,12 +30,11 @@
         <img src="https://img.icons8.com/external-smashingstocks-flat-smashing-stocks/256/external-Tools-engineering-and-architecture-smashingstocks-flat-smashing-stocks.png" alt="tool_icon" width="30" align="center">
     </h2>
     <div class="icons">
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html_icon" align="center">
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css_icon" align="center">
         <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=black" alt="java_icon" align="center">
         <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="spring_icon" align="center">
-        <img src="https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white" alt="thymeleaf_icon" align="center">
         <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgres_icon" align="center">
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html_icon" align="center">
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css_icon" align="center">
         <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="linux_icon" align="center">
         <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git_icon" align="center">
     </div>
