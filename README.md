@@ -2,7 +2,7 @@
 <img src="https://img.shields.io/badge/current-online-green" alt="shield icon"></img>
 
 <h1 align="center">
-    Hi There! I'm Gabriel <img src="https://media.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" alt="waving hand" width="30px">
+    Hi There! <img src="https://media.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" alt="waving hand" width="30px">
 </h1>
 
 <br>
