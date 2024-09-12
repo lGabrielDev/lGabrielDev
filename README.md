@@ -33,17 +33,17 @@
 
 <div align="center">
     <!-- backend -->
-    <img width="50" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" alt="Java" title="Java"/>
-    <img width="50" src="https://user-images.githubusercontent.com/25181517/117201470-f6d56780-adec-11eb-8f7c-e70e376cfd07.png" alt="Spring" title="Spring"/>
-    <img src="https://icon.icepanel.io/Technology/svg/PostgresSQL.svg" alt="postgres image icon" width="50px"/>
+    <a href="https://github.com/lGabrielDev/learning_java"><img width="50" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" alt="Java" title="Java"/></a>
+    <a href="https://github.com/lGabrielDev/learning_spring"><img width="50" src="https://user-images.githubusercontent.com/25181517/117201470-f6d56780-adec-11eb-8f7c-e70e376cfd07.png" alt="Spring" title="Spring"/></a>
+    <a href="https://github.com/lGabrielDev/learning_postgreSQL"><img src="https://icon.icepanel.io/Technology/svg/PostgresSQL.svg" alt="postgres image icon" width="50px"/></a>
     <!-- tools -->
-    <img width="50" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" alt="Docker" title="Docker"/>
+    <a href="https://github.com/lGabrielDev/learning_docker"><img width="50" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" alt="Docker" title="Docker"/></a>
     <img width="50" src="https://user-images.githubusercontent.com/25181517/186711335-a3729606-5a78-4496-9a36-06efcc74f800.png" alt="Swagger" title="Swagger"/>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Icons8_flat_linux.svg/512px-Icons8_flat_linux.svg.png?20170610200026" alt="linux image icon" width="60px"/>
+    <a href="https://github.com/lGabrielDev/learning_linux"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Icons8_flat_linux.svg/512px-Icons8_flat_linux.svg.png?20170610200026" alt="linux image icon" width="60px"/></a>
     <!-- frontend -->
-    <img width="50" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML"/>
-    <img width="50" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" title="CSS"/>
-    <img width="50" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript"/>
+    <a href="https://github.com/lGabrielDev/learning_html"><img width="50" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML"/></a>
+    <a href="https://github.com/lGabrielDev/learning_html"><img width="50" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" title="CSS"/></a>
+    <a href="https://github.com/lGabrielDev/learning_javascript"><img width="50" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript"/></a>
     
 </div>
 
