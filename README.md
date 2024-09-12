@@ -34,7 +34,7 @@
     <!-- tools -->
     <a href="https://github.com/lGabrielDev/learning_docker"><img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" title="Docker"/></a>
     <a href="https://github.com/lGabrielDev/learning_linux"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux image icon" width="40px"/></a>
-    <a href="https://github.com/lGabrielDev/learning_linux"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git image icon" width="40px"/></a>
+    <a href="https://github.com/lGabrielDev/learning_git"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git image icon" width="40px"/></a>
 </div>
 
 <br>
