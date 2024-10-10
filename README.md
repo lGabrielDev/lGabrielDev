@@ -46,18 +46,18 @@
 <table align="center">
     <!-- row 1 -->
     <tr>
-        <!-- card 1 -->
-        <td align="center">
-            <a target="_self" href="https://github.com/lGabrielDev/API_todoList"> 
-                <img src="imgs/todo_logo.svg" alt="todoList image" height="240px" width="400px"/><br>
-                <img src="https://github-readme-stats.vercel.app/api/pin/?username=lGabrielDev&repo=API_todoList&theme=tokyonight" alt="GitHub Repo" width="400px"/>
-            </a>
-        </td>
-        <!-- card 2 -->
+        <!-- card 1 - ultimo projeto feito -->
         <td align="center">
             <a target="_self" href="https://github.com/lGabrielDev/projeto_viaCEP"> 
                 <img src="imgs/viacep_logo.svg" alt="todoList image" height="240px" width="400px"/><br>
                 <img src="https://github-readme-stats.vercel.app/api/pin/?username=lGabrielDev&repo=projeto_viaCEP&theme=tokyonight" alt="GitHub Repo" width="400px"/>
+            </a>
+        </td>
+        <!-- card 2 -->
+        <td align="center">
+            <a target="_self" href="https://github.com/lGabrielDev/API_todoList"> 
+                <img src="imgs/todo_logo.svg" alt="todoList image" height="240px" width="400px"/><br>
+                <img src="https://github-readme-stats.vercel.app/api/pin/?username=lGabrielDev&repo=API_todoList&theme=tokyonight" alt="GitHub Repo" width="400px"/>
             </a>
         </td>
     </tr>
