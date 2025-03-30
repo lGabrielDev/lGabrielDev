@@ -48,10 +48,14 @@
     <tr>
         <td align="center">
             <a target="_self" href="https://github.com/lGabrielDev/microservices_concert_email"> 
-                <img src="imgs/microservices_email_logo.png" alt="last project image icon" height="240px" width="400px"/><br>
+                <img src="imgs/logo_microservices_email.png" alt="last project image icon" height="240px" width="400px"/><br>
                 <img src="https://github-readme-stats.vercel.app/api/pin/?username=lGabrielDev&repo=microservices_concert_email&theme=tokyonight" alt="GitHub Repo" />
             </a>
         </td>
+    </tr>
+    <!-- space -->
+    <tr>
+        <td><br></td>
     </tr>
     <!-- card 2 -->
     <tr>
@@ -62,6 +66,10 @@
             </a>
         </td>
     </tr>
+    <!-- space -->
+    <tr>
+        <td><br></td>
+    </tr>
     <!-- card 3 -->
     <tr>
         <td align="center">
@@ -71,6 +79,10 @@
             </a>
         </td>
     </tr>
+    <!-- space -->
+    <tr>
+        <td><br></td>
+    </tr>
     <!-- card 4 -->
      <tr>
        <td align="center">
@@ -79,6 +91,10 @@
                 <img src="https://github-readme-stats.vercel.app/api/pin/?username=lGabrielDev&repo=API_todoList&theme=tokyonight" alt="GitHub Repo" />
             </a>
         </td>
+    </tr>
+    <!-- space -->
+    <tr>
+        <td><br></td>
     </tr>
     <!-- card 5 -->
      <tr>
