@@ -43,32 +43,29 @@
 <!-- My main projects-->
 <h2 align="center">🖥️ Main Projects</h2>
 
-<table align="center">
-    <tr>
-          <!-- card 1 - ultimo projeto feito -->
-          <td align="center">
-            <a target="_self" href="https://github.com/lGabrielDev/microservices_concert_email"> 
-                <img src="imgs/logo_microservices_email.png" alt="last project image icon"><br>
-                <img src="https://github-readme-stats.vercel.app/api/pin/?username=lGabrielDev&repo=microservices_concert_email&theme=tokyonight" alt="GitHub Repo" />
-            </a>
-          <!-- card 2 -->
-        </td>
-         <td align="center">
-            <a target="_self" href="https://github.com/lGabrielDev/microservices_concert_email"> 
-                <img src="imgs/logo_microservices_email.png" alt="last project image icon"><br>
-                <img src="https://github-readme-stats.vercel.app/api/pin/?username=lGabrielDev&repo=microservices_concert_email&theme=tokyonight" alt="GitHub Repo" />
-            </a>
-          </td>
-          <!-- card 2 -->
-          <!-- card 2 -->
-    </tr>
-    <!-- space -->
-    <tr>
-        <td><br></td>
-    </tr>
-</table>
+<div align="center">
+    <div style="display: inline-block; margin: 10px">
+        <a target="_self" href="https://github.com/lGabrielDev/microservices_concert_email"> 
+            <img src="imgs/logo_microservices_email.png" alt="last project image icon" width="450px" height="540px"><br>
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=lGabrielDev&repo=microservices_concert_email&theme=tokyonight" alt="GitHub Repo" />
+        </a>
+    </div>
+    <!-- card -->
+    <div style="display: inline-block;  margin: 10px">
+        <a target="_self" href="https://github.com/lGabrielDev/gerador_orcamentos"> 
+            <img src="imgs/logo_orcamentos.png" alt="project orcamentos image" width="450px" height="540px"><br>
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=lGabrielDev&repo=gerador_orcamentos&theme=tokyonight" alt="GitHub Repo" />
+        </a>
+    </div>
+     <!-- card -->
+    <div style="display: inline-block">
+        <a target="_self" href="https://github.com/lGabrielDev/gerador_orcamentos"> 
+            <img src="imgs/logo_orcamentos.png" alt="project orcamentos image" width="450px" height="540px"><br>
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=lGabrielDev&repo=gerador_orcamentos&theme=tokyonight" alt="GitHub Repo" />
+        </a>
+    </div>
+</div>
 
-<br>
 
 <!-- github status -->
 <!-- <div align="center">
