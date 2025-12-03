@@ -41,7 +41,7 @@
 <br>
 
 <!-- My main projects-->
-<h2 align="center">🖥️ Main Projects</h2>
+<h2 align="center">🖥️ Projetos</h2>
 
 <table>
      <!-- 1 linha -->
