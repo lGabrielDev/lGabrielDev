@@ -49,7 +49,7 @@
      <!-- card -->
           <td >
                <a target="_self" href="https://github.com/lGabrielDev/microservices_concert_email"> 
-                    <img src="imgs/logo_microservices_email.png" alt="last project image icon" ><br>
+                    <img src="imgs/logo_orcamentos.png" alt="last project image icon" ><br>
                     <img src="https://github-readme-stats.vercel.app/api/pin/?username=lGabrielDev&repo=microservices_concert_email&theme=tokyonight" alt="GitHub Repo" heigh="90px"/>
                 </a>
           </td >
