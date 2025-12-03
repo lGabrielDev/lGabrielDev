@@ -107,28 +107,24 @@
           <td >
                <a target="_self" href="https://github.com/lGabrielDev/learning_java"> 
                     <img src="imgs/study_icons/java_icon.png" alt="last project image icon"><br>
-                    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lGabrielDev&repo=learning_java&theme=tokyonight" alt="GitHub Repo" />
                 </a>
           </td >
           <!-- card -->
           <td>
                <a target="_self" href="https://github.com/lGabrielDev/learning_spring"> 
                     <img src="imgs/study_icons/spring_icon.png" alt="last project image icon"><br>
-                    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lGabrielDev&repo=learning_spring&theme=tokyonight" alt="GitHub Repo" />
                 </a>
           </td>
           <!-- card -->
           <td>
                <a target="_self" href="https://github.com/lGabrielDev/learning_postgreSQL"> 
                     <img src="imgs/study_icons/postgres_icon.png" alt="last project image icon"><br>
-                    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lGabrielDev&repo=learning_spring&theme=tokyonight" alt="GitHub Repo" />
                 </a>
           </td>
           <!-- card -->
           <td>
                <a target="_self" href="https://github.com/lGabrielDev/learning_dockerL"> 
                     <img src="imgs/study_icons/docker_icon.png" alt="last project image icon"><br>
-                    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lGabrielDev&repo=learning_dockerL&theme=tokyonight" alt="GitHub Repo" />
                 </a>
           </td>
      </tr>
@@ -138,28 +134,24 @@
           <td>
                <a target="_self" href="https://github.com/lGabrielDev/learning_linux"> 
                     <img src="imgs/study_icons/linux_icon.png" alt="last project image icon" ><br>
-                    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lGabrielDev&repo=learning_linux&theme=tokyonight" alt="GitHub Repo"  />
                 </a>
           </td>
           <!-- card -->
           <td>
                <a target="_self" href="https://github.com/lGabrielDev/learning_javascript"> 
                     <img src="imgs/study_icons/js_icon.png" alt="last project image icon" ><br>
-                    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lGabrielDev&repo=learning_javascript&theme=tokyonight" alt="GitHub Repo"  />
                 </a>
           </td>
           <!-- card -->
           <td>
                <a target="_self" href="https://github.com/lGabrielDev/learning_git"> 
                     <img src="imgs/study_icons/git_icon.png" alt="last project image icon" ><br>
-                    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lGabrielDev&repo=learning_git&theme=tokyonight" alt="GitHub Repo"  />
                 </a>
           </td>
           <!-- card -->
           <td>
                <a target="_self" href="https://github.com/lGabrielDev/learning_tests/blob/main/1.introduction.md"> 
                     <img src="imgs/study_icons/tests.png" alt="last project image icon" ><br>
-                    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lGabrielDev&repo=learning_tests&theme=tokyonight" alt="GitHub Repo"  />
                 </a>
           </td>
           </tr>
@@ -168,13 +160,11 @@
           <td>
                <a target="_self" href="https://github.com/lGabrielDev/learning_microservices"> 
                     <img src="imgs/study_icons/rabbit.png" alt="last project image icon" ><br>
-                    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lGabrielDev&repo=learning_microservices&theme=tokyonight" alt="GitHub Repo"  />
                 </a>
           </td>
           <td>
                <a target="_self" href="https://github.com/lGabrielDev/learning_maven"> 
                     <img src="imgs/study_icons/maven.png" alt="last project image icon" ><br>
-                    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lGabrielDev&repo=learning_maven&theme=tokyonight" alt="GitHub Repo"  />
                 </a>
           </td>
      </tr>
