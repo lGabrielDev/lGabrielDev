@@ -58,13 +58,8 @@
                 <img src="imgs/logo_microservices_email.png" alt="last project image icon"><br>
                 <img src="https://github-readme-stats.vercel.app/api/pin/?username=lGabrielDev&repo=microservices_concert_email&theme=tokyonight" alt="GitHub Repo" />
             </a>
+          </td>
           <!-- card 2 -->
-        </td>
-         <td align="center">
-            <a target="_self" href="https://github.com/lGabrielDev/microservices_concert_email"> 
-                <img src="imgs/logo_microservices_email.png" alt="last project image icon"><br>
-                <img src="https://github-readme-stats.vercel.app/api/pin/?username=lGabrielDev&repo=microservices_concert_email&theme=tokyonight" alt="GitHub Repo" />
-            </a>
           <!-- card 2 -->
     </tr>
     <!-- space -->
