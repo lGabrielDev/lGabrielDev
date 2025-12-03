@@ -49,21 +49,21 @@
      <!-- card -->
           <td >
                <a target="_self" href="https://github.com/lGabrielDev/microservices_concert_email"> 
-                    <img src="imgs/logo_microservices_email.png" alt="last project image icon" width="470px"><br>
+                    <img src="imgs/logo_microservices_email.png" alt="last project image icon" ><br>
                     <img src="https://github-readme-stats.vercel.app/api/pin/?username=lGabrielDev&repo=microservices_concert_email&theme=tokyonight" alt="GitHub Repo" />
                 </a>
           </td >
           <!-- card -->
           <td>
                <a target="_self" href="https://github.com/lGabrielDev/gerador_orcamentos"> 
-                    <img src="imgs/logo_orcamentos.png" alt="last project image icon" width="470px"><br>
+                    <img src="imgs/logo_orcamentos.png" alt="last project image icon" ><br>
                     <img src="https://github-readme-stats.vercel.app/api/pin/?username=lGabrielDev&repo=gerador_orcamentos&theme=tokyonight" alt="GitHub Repo" />
                 </a>
           </td>
           <!-- card -->
           <td>
                <a target="_self" href="https://github.com/lGabrielDev/projeto_viaCEP"> 
-                    <img src="imgs/logo_viacep.png" alt="last project image icon" width="470px"><br>
+                    <img src="imgs/logo_viacep.png" alt="last project image icon" ><br>
                     <img src="https://github-readme-stats.vercel.app/api/pin/?username=lGabrielDev&repo=gerador_orcamentos&theme=tokyonight" alt="GitHub Repo" />
                 </a>
           </td>
@@ -73,22 +73,22 @@
      <!-- card -->
           <td>
                <a target="_self" href="https://github.com/lGabrielDev/API_todoList"> 
-                    <img src="imgs/logo_todo.png" alt="last project image icon" width="470px"><br>
+                    <img src="imgs/logo_todo.png" alt="last project image icon" ><br>
                     <img src="https://github-readme-stats.vercel.app/api/pin/?username=lGabrielDev&repo=API_todoList&theme=tokyonight" alt="GitHub Repo" />
                 </a>
           </td>
           <!-- card -->
           <td>
                <a target="_self" href="#"> 
-                    <img src="imgs/under_construction_image.png" alt="last project image icon" width="470px"><br>
-                    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lGabrielDev&repo=#&theme=tokyonight" alt="GitHub Repo" />
+                    <img src="imgs/under_construction_image.png" alt="last project image icon" ><br>
+                    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lGabrielDev&repo=lGabrielDev&theme=tokyonight" alt="GitHub Repo" />
                 </a>
           </td>
           <!-- card -->
           <td>
                <a target="_self" href="#"> 
-                    <img src="imgs/under_construction_image.png" alt="last project image icon" width="470px"><br>
-                    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lGabrielDev&repo=#&theme=tokyonight" alt="GitHub Repo" />
+                    <img src="imgs/under_construction_image.png" alt="last project image icon" ><br>
+                    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lGabrielDev&repo=lGabrielDev&theme=tokyonight" alt="GitHub Repo" />
                 </a>
           </td>
      </tr>
