@@ -53,19 +53,6 @@
             </a>
           <!-- card 2 -->
         </td>
-          <td align="center">
-            <a target="_self" href="https://github.com/lGabrielDev/gerador_orcamentos"> 
-                <img src="imgs/logo_orcamentos.png" alt="project orcamentos image" height="540px" width="475px"/><br>
-                <img src="https://github-readme-stats.vercel.app/api/pin/?username=lGabrielDev&repo=gerador_orcamentos&theme=tokyonight" alt="GitHub Repo" />
-            </a>
-        </td>
-        <!-- dsadsadsad -->
-        <td align="center">
-            <a target="_self" href="https://github.com/lGabrielDev/gerador_orcamentos"> 
-                <img src="imgs/logo_orcamentos.png" alt="project orcamentos image" height="540px" width="475px"/><br>
-                <img src="https://github-readme-stats.vercel.app/api/pin/?username=lGabrielDev&repo=gerador_orcamentos&theme=tokyonight" alt="GitHub Repo" />
-            </a>
-        </td>
     </tr>
     <!-- space -->
     <tr>
