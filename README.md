@@ -43,28 +43,57 @@
 <!-- My main projects-->
 <h2 align="center">🖥️ Main Projects</h2>
 
-<div align="center">
-    <div style="display: inline-block; margin: 10px">
-        <a target="_self" href="https://github.com/lGabrielDev/microservices_concert_email"> 
-            <img src="imgs/logo_microservices_email.png" alt="last project image icon" width="450px" height="540px"><br>
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=lGabrielDev&repo=microservices_concert_email&theme=tokyonight" alt="GitHub Repo" />
-        </a>
-    </div>
-    <!-- card -->
-    <div style="display: inline-block;  margin: 10px">
-        <a target="_self" href="https://github.com/lGabrielDev/gerador_orcamentos"> 
-            <img src="imgs/logo_orcamentos.png" alt="project orcamentos image" width="450px" height="540px"><br>
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=lGabrielDev&repo=gerador_orcamentos&theme=tokyonight" alt="GitHub Repo" />
-        </a>
-    </div>
+<table>
+     <!-- 1 linha -->
+     <tr>
      <!-- card -->
-    <div style="display: inline-block">
-        <a target="_self" href="https://github.com/lGabrielDev/gerador_orcamentos"> 
-            <img src="imgs/logo_orcamentos.png" alt="project orcamentos image" width="450px" height="540px"><br>
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=lGabrielDev&repo=gerador_orcamentos&theme=tokyonight" alt="GitHub Repo" />
-        </a>
-    </div>
-</div>
+          <td >
+               <a target="_self" href="https://github.com/lGabrielDev/microservices_concert_email"> 
+                    <img src="imgs/logo_microservices_email.png" alt="last project image icon"><br>
+                    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lGabrielDev&repo=microservices_concert_email&theme=tokyonight" alt="GitHub Repo" />
+                </a>
+          </td >
+          <!-- card -->
+          <td>
+               <a target="_self" href="https://github.com/lGabrielDev/microservices_concert_email"> 
+                    <img src="imgs/logo_orcamentos.png" alt="last project image icon"><br>
+                    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lGabrielDev&repo=microservices_concert_email&theme=tokyonight" alt="GitHub Repo" />
+                </a>
+          </td>
+          <!-- card -->
+          <td>
+               <a target="_self" href="https://github.com/lGabrielDev/microservices_concert_email"> 
+                    <img src="imgs/logo_viacep.png" alt="last project image icon"><br>
+                    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lGabrielDev&repo=microservices_concert_email&theme=tokyonight" alt="GitHub Repo" />
+                </a>
+          </td>
+     </tr>
+     <!-- 2 linha -->
+     <tr>
+     <!-- card -->
+          <td>
+               <a target="_self" href="https://github.com/lGabrielDev/microservices_concert_email"> 
+                    <img src="imgs/logo_todo.png" alt="last project image icon"><br>
+                    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lGabrielDev&repo=microservices_concert_email&theme=tokyonight" alt="GitHub Repo" />
+                </a>
+          </td>
+          <!-- card -->
+          <td>
+               <a target="_self" href="https://github.com/lGabrielDev/microservices_concert_email"> 
+                    <img src="imgs/logo_microservices_email.png" alt="last project image icon"><br>
+                    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lGabrielDev&repo=microservices_concert_email&theme=tokyonight" alt="GitHub Repo" />
+                </a>
+          </td>
+          <!-- card -->
+          <td>
+               <a target="_self" href="https://github.com/lGabrielDev/microservices_concert_email"> 
+                    <img src="imgs/logo_microservices_email.png" alt="last project image icon"><br>
+                    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lGabrielDev&repo=microservices_concert_email&theme=tokyonight" alt="GitHub Repo" />
+                </a>
+          </td>
+     </tr>
+</table>
+
 
 
 <!-- github status -->
