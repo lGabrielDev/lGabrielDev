@@ -81,14 +81,14 @@
           <td>
                <a target="_self" href="#"> 
                     <img src="imgs/under_construction_image.png" alt="last project image icon" ><br>
-                    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lGabrielDev&repo=lGabrielDev&theme=tokyonight" alt="GitHub Repo" />
+                    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lGabrielDev&repo=under_construction&theme=tokyonight" alt="GitHub Repo" />
                 </a>
           </td>
           <!-- card -->
           <td>
                <a target="_self" href="#"> 
                     <img src="imgs/under_construction_image.png" alt="last project image icon" ><br>
-                    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lGabrielDev&repo=lGabrielDev&theme=tokyonight" alt="GitHub Repo" />
+                    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lGabrielDev&repo=under_construction&theme=tokyonight" alt="GitHub Repo" />
                 </a>
           </td>
      </tr>
