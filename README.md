@@ -14,7 +14,7 @@
     <!-- linkedin -->
     <a href="https://www.linkedin.com/in/lgabrieldev/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin image icon"/></a>  
     <!-- portfólio -->
-    <a href="https://lgabrieldev.github.io/"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" alt="portfolio image icon"/></a> 
+    <!-- <a href="https://lgabrieldev.github.io/"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" alt="portfolio image icon"/></a>  -->
     <!-- gmail -->
     <a href="mailto:thegabrielfreitasbf@yahoo.com.br"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail image icon"/></a>
 </div>
@@ -46,49 +46,52 @@
 <table>
      <!-- 1 linha -->
      <tr>
+          <!-- card -->
+          <td>
+               <a target="_self" href="https://github.com/lGabrielDev/Desafio-de-Vaga-Junior-Rocketseat"> 
+                    <img src="imgs/desafio_rocketseat.png" alt="last project image icon" ><br>
+                </a>
+          </td>
      <!-- card -->
           <td >
                <a target="_self" href="https://github.com/lGabrielDev/microservices_concert_email"> 
                     <img src="imgs/logo_microservices_email.png" alt="last project image icon"><br>
-                    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lGabrielDev&repo=microservices_concert_email&theme=tokyonight" alt="GitHub Repo" />
                 </a>
           </td >
           <!-- card -->
           <td>
                <a target="_self" href="https://github.com/lGabrielDev/gerador_orcamentos"> 
                     <img src="imgs/logo_orcamentos.png" alt="last project image icon" ><br>
-                    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lGabrielDev&repo=gerador_orcamentos&theme=tokyonight" alt="GitHub Repo" />
-                </a>
-          </td>
-          <!-- card -->
-          <td>
-               <a target="_self" href="https://github.com/lGabrielDev/projeto_viaCEP"> 
-                    <img src="imgs/logo_viacep.png" alt="last project image icon" ><br>
-                    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lGabrielDev&repo=gerador_orcamentos&theme=tokyonight" alt="GitHub Repo" />
                 </a>
           </td>
      </tr>
      <!-- 2 linha -->
      <tr>
+          <!-- card -->
+          <td>
+               <a target="_self" href="https://github.com/lGabrielDev/projeto_viaCEP"> 
+                    <img src="imgs/logo_viacep.png" alt="last project image icon" ><br>
+                </a>
+          </td>
      <!-- card -->
           <td>
+               <a target="_self" href="https://github.com/lGabrielDev/lGabrielDev.github.io"> 
+                    <img src="imgs/potfolio_webpage.png" alt="last project image icon" ><br>
+                </a>
+          </td>
+          <td>
+          <!-- card -->
                <a target="_self" href="https://github.com/lGabrielDev/API_todoList"> 
                     <img src="imgs/logo_todo.png" alt="last project image icon" ><br>
-                    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lGabrielDev&repo=API_todoList&theme=tokyonight" alt="GitHub Repo"  />
                 </a>
           </td>
+     </tr>
+     <!-- row 3 -->
+     <tr>
           <!-- card -->
           <td>
                <a target="_self" href="#"> 
                     <img src="imgs/under_construction_image.png" alt="last project image icon" ><br>
-                    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lGabrielDev&repo=under_construction&theme=tokyonight" alt="GitHub Repo" />
-                </a>
-          </td>
-          <!-- card -->
-          <td>
-               <a target="_self" href="#"> 
-                    <img src="imgs/under_construction_image.png" alt="last project image icon" ><br>
-                    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lGabrielDev&repo=under_construction&theme=tokyonight" alt="GitHub Repo"  />
                 </a>
           </td>
      </tr>
@@ -123,8 +126,13 @@
           </td>
           <!-- card -->
           <td>
-               <a target="_self" href="https://github.com/lGabrielDev/learning_dockerL"> 
+               <a target="_self" href="https://github.com/lGabrielDev/learning_docker"> 
                     <img src="imgs/study_icons/docker_icon.png" alt="last project image icon"><br>
+                </a>
+          </td>
+          <td>
+               <a target="_self" href="https://github.com/lGabrielDev/learning_maven"> 
+                    <img src="imgs/study_icons/maven.png" alt="last project image icon" ><br>
                 </a>
           </td>
      </tr>
@@ -154,20 +162,15 @@
                     <img src="imgs/study_icons/tests.png" alt="last project image icon" ><br>
                 </a>
           </td>
-          </tr>
-          <tr>
-     <!-- card -->
+          <!-- card -->
           <td>
                <a target="_self" href="https://github.com/lGabrielDev/learning_microservices"> 
                     <img src="imgs/study_icons/rabbit.png" alt="last project image icon" ><br>
                 </a>
           </td>
-          <td>
-               <a target="_self" href="https://github.com/lGabrielDev/learning_maven"> 
-                    <img src="imgs/study_icons/maven.png" alt="last project image icon" ><br>
-                </a>
-          </td>
-     </tr>
+          </tr>
+          <tr>
+          </tr>
 </table>
 
 <!-- github status -->
