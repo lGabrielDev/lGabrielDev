@@ -46,6 +46,12 @@
 <table>
      <!-- 1 linha -->
      <tr>
+      <!-- card -->
+          <td>
+               <a target="_self" href="https://github.com/lGabrielDev/projeto_rabbitMQ"> 
+                    <img src="imgs/logo_rabbit_projeto.png" alt="last project image icon" ><br>
+                </a>
+          </td>
           <!-- card -->
           <td>
                <a target="_self" href="https://github.com/lGabrielDev/Desafio-de-Vaga-Junior-Rocketseat"> 
@@ -58,15 +64,15 @@
                     <img src="imgs/logo_microservices_email.png" alt="last project image icon"><br>
                 </a>
           </td >
+     </tr>
+     <!-- 2 linha -->
+     <tr>
           <!-- card -->
           <td>
                <a target="_self" href="https://github.com/lGabrielDev/gerador_orcamentos"> 
                     <img src="imgs/logo_orcamentos.png" alt="last project image icon" ><br>
                 </a>
           </td>
-     </tr>
-     <!-- 2 linha -->
-     <tr>
           <!-- card -->
           <td>
                <a target="_self" href="https://github.com/lGabrielDev/projeto_viaCEP"> 
@@ -79,19 +85,13 @@
                     <img src="imgs/potfolio_webpage.png" alt="last project image icon" ><br>
                 </a>
           </td>
-          <td>
-          <!-- card -->
-               <a target="_self" href="https://github.com/lGabrielDev/API_todoList"> 
-                    <img src="imgs/logo_todo.png" alt="last project image icon" ><br>
-                </a>
-          </td>
      </tr>
      <!-- row 3 -->
      <tr>
           <!-- card -->
           <td>
-               <a target="_self" href="#"> 
-                    <img src="imgs/under_construction_image.png" alt="last project image icon" ><br>
+               <a target="_self" href="https://github.com/lGabrielDev/API_todoList"> 
+                    <img src="imgs/logo_todo.png" alt="last project image icon" ><br>
                 </a>
           </td>
      </tr>
