@@ -47,6 +47,11 @@
      <!-- 1 linha -->
      <tr>
       <!-- card -->
+      <td>
+               <a target="_self" href="https://github.com/lGabrielDev/upload_download_arquivos_S3"> 
+                    <img src="imgs/download_s3_thumb.png" alt="last project image icon" ><br>
+                </a>
+          </td>
           <td>
                <a target="_self" href="https://github.com/lGabrielDev/projeto_rabbitMQ"> 
                     <img src="imgs/logo_rabbit_projeto.png" alt="last project image icon" ><br>
@@ -58,15 +63,15 @@
                     <img src="imgs/desafio_rocketseat.png" alt="last project image icon" ><br>
                 </a>
           </td>
+     </tr>
+     <!-- 2 linha -->
+     <tr>
      <!-- card -->
           <td >
                <a target="_self" href="https://github.com/lGabrielDev/microservices_concert_email"> 
                     <img src="imgs/logo_microservices_email.png" alt="last project image icon"><br>
                 </a>
           </td >
-     </tr>
-     <!-- 2 linha -->
-     <tr>
           <!-- card -->
           <td>
                <a target="_self" href="https://github.com/lGabrielDev/gerador_orcamentos"> 
@@ -79,15 +84,15 @@
                     <img src="imgs/logo_viacep.png" alt="last project image icon" ><br>
                 </a>
           </td>
+     </tr>
+     <!-- row 3 -->
+     <tr>
      <!-- card -->
           <td>
                <a target="_self" href="https://github.com/lGabrielDev/lGabrielDev.github.io"> 
                     <img src="imgs/potfolio_webpage.png" alt="last project image icon" ><br>
                 </a>
           </td>
-     </tr>
-     <!-- row 3 -->
-     <tr>
           <!-- card -->
           <td>
                <a target="_self" href="https://github.com/lGabrielDev/API_todoList"> 
