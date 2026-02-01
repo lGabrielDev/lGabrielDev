@@ -49,7 +49,7 @@
       <!-- card -->
       <td>
                <a target="_self" href="https://github.com/lGabrielDev/upload_download_arquivos_S3"> 
-                    <img src="imgs/download_s3_thumb.png" alt="last project image icon" ><br>
+                    <img src="imgs/download_s3__thumb.png" alt="last project image icon" ><br>
                 </a>
           </td>
           <td>
