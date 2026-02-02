@@ -1,19 +1,15 @@
 <!-- contact me -->
-# Gabriel Freitas ✋
+<h1 align="center"> Gabriel Freitas ✋ </h1>
 
 <p align="center">São Paulo - SP</p>
 
 <!-- contact -->
 <p align="center">
-     <a href="https://www.linkedin.com/in/lgabrieldev">
-          <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white" alt="Linkedin">
-     </a>
-     <a href="mailto:thegabrielfreitasbf@yahoo.com.br">
-          <img src="https://img.shields.io/badge/-thegabrielfreitasbf@yahoo.com.br-c14438?style=flat&logo=gmail&logoColor=white" alt="Gmail">
-     </a>
+     <a href="https://www.linkedin.com/in/lgabrieldev"><img src="https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white" alt="Linkedin"></a>&nbsp;&nbsp;&nbsp;<a href="mailto:thegabrielfreitasbf@yahoo.com.br"><img src="https://img.shields.io/badge/-thegabrielfreitasbf@yahoo.com.br-c14438?style=flat&logo=gmail&logoColor=white" alt="Gmail"></a>
 </p>
 
 <br>
+
 
 <!-- skills -->
 <h2 align="center">Skills</h2>
@@ -25,7 +21,7 @@
 </p>
 
 <br>
-<br>
+
 
 <!-- My main projects-->
 <h2 align="center">🖥️ Projetos</h2>
