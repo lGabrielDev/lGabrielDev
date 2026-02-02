@@ -1,41 +1,24 @@
-<!-- online badge -->
-<img src="https://img.shields.io/badge/current-online-green" alt="shield icon"></img>
-
-
 <!-- contact me -->
-<h1 align="center">
-    Gabriel Freitas 👋
-</h1>
+# Gabriel Freitas 👋
 
-<p align="center">São Paulo, Brazil</p>
+<p align="">São Paulo, Brazil</p>
 
 <!-- contact -->
-<div align="center">
-    <!-- linkedin -->
-    <a href="https://www.linkedin.com/in/lgabrieldev/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin image icon"/></a>  
-    <!-- portfólio -->
-    <!-- <a href="https://lgabrieldev.github.io/"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" alt="portfolio image icon"/></a>  -->
-    <!-- gmail -->
-    <a href="mailto:thegabrielfreitasbf@yahoo.com.br"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail image icon"/></a>
-</div>
+[![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lgabrieldev)
+[![Gmail](https://img.shields.io/badge/-email-c14438?style=flat&logo=gmail&logoColor=white)](mailto:thegabrielfreitasbf@yahoo.com.br)
 
 <br>
-<br>
 
+Olá, sou Gabriel, desenvolvedor Backend com 2 anos de experiência na criação e manutenção de sistemas. Especializado no ecossistema Java e Spring Boot, atuo com foco em Clean Code e princípios SOLID
+
+Tenho experiência no desenvolvimento de Microserviços, Mensageria (RabbitMQ) e na infraestrutura AWS (EC2, S3, RDS). Domino o ecossistema Spring (MVC, Data, Web), Hibernate e bancos de dados PostgreSQL/MySQL. Atuo com Docker, OpenFeign, Swagger e automação de testes (TDD com JUnit/Mockito) em ambiente Linux e metodologias ágeis.
+
+<br>
 
 <!-- skills -->
 <h2 align="center">Skills</h2>
 
-<div align="center">
-    <!-- backend -->
-    <a href="https://github.com/lGabrielDev/learning_java"><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" title="Java"/></a>
-    <a href="https://github.com/lGabrielDev/learning_spring"><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring" title="Spring"/></a>
-    <a href="https://github.com/lGabrielDev/learning_postgreSQL"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgres image icon" width="40px"/></a>
-    <!-- tools -->
-    <a href="https://github.com/lGabrielDev/learning_docker"><img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" title="Docker"/></a>
-    <a href="https://github.com/lGabrielDev/learning_linux"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux image icon" width="40px"/></a>
-    <a href="https://github.com/lGabrielDev/learning_git"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git image icon" width="40px"/></a>
-</div>
+[![My Skills](https://skillicons.dev/icons?i=java,spring,postgres,docker,rabbitmq,aws,git,linux)](https://skillicons.dev)
 
 <br>
 <br>
@@ -105,78 +88,6 @@
 <br>
 <br>
 
-<!-- My main projects-->
-<h2 align="center"> 📚 Material de estudo </h2>
-
-<table>
-     <!-- 1 linha -->
-     <tr>
-     <!-- card -->
-          <td >
-               <a target="_self" href="https://github.com/lGabrielDev/learning_java"> 
-                    <img src="imgs/study_icons/java_icon.png" alt="last project image icon"><br>
-                </a>
-          </td >
-          <!-- card -->
-          <td>
-               <a target="_self" href="https://github.com/lGabrielDev/learning_spring"> 
-                    <img src="imgs/study_icons/spring_icon.png" alt="last project image icon"><br>
-                </a>
-          </td>
-          <!-- card -->
-          <td>
-               <a target="_self" href="https://github.com/lGabrielDev/learning_postgreSQL"> 
-                    <img src="imgs/study_icons/postgres_icon.png" alt="last project image icon"><br>
-                </a>
-          </td>
-          <!-- card -->
-          <td>
-               <a target="_self" href="https://github.com/lGabrielDev/learning_docker"> 
-                    <img src="imgs/study_icons/docker_icon.png" alt="last project image icon"><br>
-                </a>
-          </td>
-          <td>
-               <a target="_self" href="https://github.com/lGabrielDev/learning_maven"> 
-                    <img src="imgs/study_icons/maven.png" alt="last project image icon" ><br>
-                </a>
-          </td>
-     </tr>
-     <!-- 2 linha -->
-     <tr>
-     <!-- card -->
-          <td>
-               <a target="_self" href="https://github.com/lGabrielDev/learning_linux"> 
-                    <img src="imgs/study_icons/linux_icon.png" alt="last project image icon" ><br>
-                </a>
-          </td>
-          <!-- card -->
-          <td>
-               <a target="_self" href="https://github.com/lGabrielDev/learning_javascript"> 
-                    <img src="imgs/study_icons/js_icon.png" alt="last project image icon" ><br>
-                </a>
-          </td>
-          <!-- card -->
-          <td>
-               <a target="_self" href="https://github.com/lGabrielDev/learning_git"> 
-                    <img src="imgs/study_icons/git_icon.png" alt="last project image icon" ><br>
-                </a>
-          </td>
-          <!-- card -->
-          <td>
-               <a target="_self" href="https://github.com/lGabrielDev/learning_tests/blob/main/1.introduction.md"> 
-                    <img src="imgs/study_icons/tests.png" alt="last project image icon" ><br>
-                </a>
-          </td>
-          <!-- card -->
-          <td>
-               <a target="_self" href="https://github.com/lGabrielDev/learning_microservices"> 
-                    <img src="imgs/study_icons/rabbit.png" alt="last project image icon" ><br>
-                </a>
-          </td>
-          </tr>
-          <tr>
-          </tr>
-</table>
 
 <!-- github status -->
 <!-- <div align="center">
