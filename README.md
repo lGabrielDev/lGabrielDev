@@ -1,24 +1,28 @@
 <!-- contact me -->
-# Gabriel Freitas 👋
+# Gabriel Freitas ✋
 
-<p align="">São Paulo, Brazil</p>
+<p align="center">São Paulo - SP</p>
 
 <!-- contact -->
-[![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lgabrieldev)
-[![Gmail](https://img.shields.io/badge/-email-c14438?style=flat&logo=gmail&logoColor=white)](mailto:thegabrielfreitasbf@yahoo.com.br)
-
-<br>
-
-Olá, sou Gabriel, desenvolvedor Backend com 2 anos de experiência na criação e manutenção de sistemas. Especializado no ecossistema Java e Spring Boot, atuo com foco em Clean Code e princípios SOLID
-
-Tenho experiência no desenvolvimento de Microserviços, Mensageria (RabbitMQ) e na infraestrutura AWS (EC2, S3, RDS). Domino o ecossistema Spring (MVC, Data, Web), Hibernate e bancos de dados PostgreSQL/MySQL. Atuo com Docker, OpenFeign, Swagger e automação de testes (TDD com JUnit/Mockito) em ambiente Linux e metodologias ágeis.
+<p align="center">
+     <a href="https://www.linkedin.com/in/lgabrieldev">
+          <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white" alt="Linkedin">
+     </a>
+     <a href="mailto:thegabrielfreitasbf@yahoo.com.br">
+          <img src="https://img.shields.io/badge/-thegabrielfreitasbf@yahoo.com.br-c14438?style=flat&logo=gmail&logoColor=white" alt="Gmail">
+     </a>
+</p>
 
 <br>
 
 <!-- skills -->
 <h2 align="center">Skills</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,postgres,docker,rabbitmq,aws,git,linux)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,postgres,docker,rabbitmq,aws" />
+  </a>
+</p>
 
 <br>
 <br>
