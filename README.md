@@ -17,6 +17,9 @@
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,spring,postgres,docker,rabbitmq,aws" />
+    <br>
+    <br>
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript" />
   </a>
 </p>
 
