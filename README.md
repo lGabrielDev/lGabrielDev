@@ -10,7 +10,6 @@
 
 <br>
 
-
 <!-- skills -->
 <h2 align="center">Skills</h2>
 
@@ -19,12 +18,11 @@
     <img src="https://skillicons.dev/icons?i=java,spring,postgres,docker,rabbitmq,aws" />
     <br>
     <br>
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,angular" />
   </a>
 </p>
 
 <br>
-
 
 <!-- My main projects-->
 <h2 align="center">🖥️ Projetos</h2>
