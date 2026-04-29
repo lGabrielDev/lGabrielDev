@@ -31,6 +31,11 @@
      <!-- 1 linha -->
      <tr>
       <!-- card -->
+         <td>
+               <a target="_self" href="https://github.com/lGabrielDev/projeto_angular"> 
+                    <img src="imgs/orcamento_brasil.png" alt="last project image icon" ><br>
+                </a>
+          </td>
       <td>
                <a target="_self" href="https://github.com/lGabrielDev/upload_download_arquivos_S3"> 
                     <img src="imgs/download_s3__thumb.png" alt="last project image icon" ><br>
@@ -41,15 +46,15 @@
                     <img src="imgs/logo_rabbit_projeto.png" alt="last project image icon" ><br>
                 </a>
           </td>
-          <!-- card -->
-          <td>
-               <a target="_self" href="https://github.com/lGabrielDev/Desafio-de-Vaga-Junior-Rocketseat"> 
-                    <img src="imgs/desafio_rocketseat.png" alt="last project image icon" ><br>
-                </a>
-          </td>
      </tr>
      <!-- 2 linha -->
      <tr>
+      <!-- card -->
+         <td>
+            <a target="_self" href="https://github.com/lGabrielDev/Desafio-de-Vaga-Junior-Rocketseat"> 
+                  <img src="imgs/desafio_rocketseat.png" alt="last project image icon" ><br>
+               </a>
+         </td>
      <!-- card -->
           <td >
                <a target="_self" href="https://github.com/lGabrielDev/microservices_concert_email"> 
@@ -62,15 +67,15 @@
                     <img src="imgs/logo_orcamentos.png" alt="last project image icon" ><br>
                 </a>
           </td>
-          <!-- card -->
+     </tr>
+     <!-- row 3 -->
+     <tr>
+       <!-- card -->
           <td>
                <a target="_self" href="https://github.com/lGabrielDev/projeto_viaCEP"> 
                     <img src="imgs/logo_viacep.png" alt="last project image icon" ><br>
                 </a>
           </td>
-     </tr>
-     <!-- row 3 -->
-     <tr>
      <!-- card -->
           <td>
                <a target="_self" href="https://github.com/lGabrielDev/lGabrielDev.github.io"> 
@@ -88,7 +93,6 @@
 
 <br>
 <br>
-
 
 <!-- github status -->
 <!-- <div align="center">
